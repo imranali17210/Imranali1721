@@ -1,4 +1,4 @@
-# Imranali1720
+# Imranali17210
 <img align="center" alt="web developer" width="4000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5hw0sG0eczwrPnmcOLmNPmCbUF1686MSiQ&usqp=CAU">
 <h1 align="left">Web developer and designer 
 <h1 align="center">Hi 👋, I'm Imran Ali</h1>
